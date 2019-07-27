@@ -75,3 +75,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BattleTank/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset
+BattleTank/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset
+BattleTank/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset
+BattleTank/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset
+BattleTank/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset
+BattleTank/Content/StarterContent/Materials/M_Concrete_Grime.uasset
+BattleTank/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset
+BattleTank/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset
+BattleTank/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+BattleTank/Content/StarterContent/Materials/M_Brick_Clay_New.uasset
+BattleTank/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset

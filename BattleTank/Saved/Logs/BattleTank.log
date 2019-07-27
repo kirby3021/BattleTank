@@ -1,0 +1,1037 @@
+﻿Log file open, 07/26/19 21:51:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BattleTank
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.411883
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername="II ZULU II" -epicuserid=5965261cf320487bb89dcac702d99940 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.27-03.51.35:806][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.27-03.51.35:806][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.27-03.51.35:806][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.07.27-03.51.35:806][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.27-03.51.35:806][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.07.27-03.51.35:806][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.07.27-03.51.35:806][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.07.27-03.51.35:806][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.27-03.51.35:806][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.27-03.51.35:806][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.27-03.51.35:806][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.27-03.51.35:806][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.27-03.51.35:807][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.07.27-03.51.35:807][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.07.27-03.51.35:812][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.27-03.51.35:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.27-03.51.35:813][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.27-03.51.35:813][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.27-03.51.35:813][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.27-03.51.35:825][  0]LogHAL: Display: Platform has ~ 16 GB [17077448704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.27-03.51.35:825][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.27-03.51.35:825][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.27-03.51.35:825][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.27-03.51.35:826][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.07.27-03.51.35:827][  0]LogInit: Computer: DESKTOP-ODELEP8
+[2019.07.27-03.51.35:827][  0]LogInit: User: kirby
+[2019.07.27-03.51.35:827][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.07.27-03.51.35:827][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.27-03.51.35:827][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.27-03.51.35:827][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.27-03.51.35:827][  0]LogMemory: Process Physical Memory: 97.73 MB used, 97.74 MB peak
+[2019.07.27-03.51.35:827][  0]LogMemory: Process Virtual Memory: 89.51 MB used, 89.51 MB peak
+[2019.07.27-03.51.35:827][  0]LogMemory: Physical Memory: 6417.84 MB used,  9868.48 MB free, 16286.32 MB total
+[2019.07.27-03.51.35:827][  0]LogMemory: Virtual Memory: 4660.38 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.07.27-03.51.35:868][  0]LogInit: Using OS detected language (en-US).
+[2019.07.27-03.51.35:868][  0]LogInit: Using OS detected locale (en-US).
+[2019.07.27-03.51.35:870][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.07.27-03.51.36:047][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.27-03.51.36:084][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.27-03.51.36:084][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.27-03.51.36:412][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.07.27-03.51.36:412][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.27-03.51.36:498][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
+[2019.07.27-03.51.36:498][  0]LogD3D11RHI:       8081/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.07.27-03.51.36:518][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.07.27-03.51.36:518][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.07.27-03.51.36:521][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.27-03.51.36:521][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.27-03.51.36:521][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.27-03.51.36:549][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.27-03.51.36:549][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.27-03.51.36:549][  0]LogWindows: EnumDisplayDevices:
+[2019.07.27-03.51.36:550][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.07.27-03.51.36:551][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.07.27-03.51.36:551][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.07.27-03.51.36:553][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:1)
+[2019.07.27-03.51.36:554][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.07.27-03.51.36:555][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.07.27-03.51.36:556][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.07.27-03.51.36:557][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.07.27-03.51.36:557][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
+[2019.07.27-03.51.36:557][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.07.27-03.51.36:557][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.07.27-03.51.36:557][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.07.27-03.51.36:603][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.27-03.51.36:606][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.27-03.51.36:606][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.27-03.51.36:606][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.27-03.51.36:614][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.07.27-03.51.37:023][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.27-03.51.37:037][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.27-03.51.37:052][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.27-03.51.37:074][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.27-03.51.37:092][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.27-03.51.37:109][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.27-03.51.37:125][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.27-03.51.37:142][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.27-03.51.37:153][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.27-03.51.37:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.27-03.51.37:264][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.27-03.51.37:315][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.27-03.51.37:315][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.27-03.51.37:340][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.27-03.51.37:340][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.27-03.51.37:354][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.27-03.51.37:367][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.27-03.51.37:380][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.27-03.51.37:394][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.27-03.51.37:442][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.27-03.51.37:442][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.27-03.51.37:442][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.27-03.51.37:452][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.27-03.51.37:526][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Intermediate/Shaders/WorkingDirectory/1992/).
+[2019.07.27-03.51.37:527][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kirby/AppData/Local/Temp/UnrealShaderWorkingDir/F40249CE4DA7E915C40356A4FD936822/'.
+[2019.07.27-03.51.37:529][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.27-03.51.37:529][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.27-03.51.37:529][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.27-03.51.38:078][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.27-03.51.38:120][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/kirby/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.27-03.51.38:120][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kirby/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.27-03.51.38:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.27-03.51.38:120][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.27-03.51.38:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.27-03.51.38:120][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.27-03.51.38:131][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.27-03.51.38:132][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.27-03.51.38:132][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.27-03.51.38:144][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kirby/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.27-03.51.38:144][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.27-03.51.38:144][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.27-03.51.38:163][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.27-03.51.38:164][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.27-03.51.38:165][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.27-03.51.38:256][  0]LogAssetRegistry: FAssetRegistry took 0.0340 seconds to start up
+[2019.07.27-03.51.38:631][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.27-03.51.38:774][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.27-03.51.38:774][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.27-03.51.38:774][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.27-03.51.38:774][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.27-03.51.38:774][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.27-03.51.38:784][  0]LogNetVersion: BattleTank 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 704854574)
+[2019.07.27-03.51.39:202][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041651 seconds
+[2019.07.27-03.51.39:209][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.27-03.51.39:209][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.27-03.51.39:209][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.27-03.51.40:193][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.27-03.51.40:219][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.27-03.51.40:336][  0]SourceControl: Source control is disabled
+[2019.07.27-03.51.40:336][  0]SourceControl: Source control is disabled
+[2019.07.27-03.51.40:338][  0]SourceControl: Source control is disabled
+[2019.07.27-03.51.40:340][  0]SourceControl: Source control is disabled
+[2019.07.27-03.51.40:449][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.27-03.51.40:568][  0]LogOcInput: OculusInput pre-init called
+[2019.07.27-03.51.41:369][  0]LogEngine: Initializing Engine...
+[2019.07.27-03.51.41:409][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.07.27-03.51.41:410][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.27-03.51.41:612][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.27-03.51.41:627][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.27-03.51.41:646][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-03.51.41:669][  0]LogInit: FAudioDevice initialized.
+[2019.07.27-03.51.41:669][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.27-03.51.41:710][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/kirby/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.27-03.51.41:718][  0]LogInit: Texture streaming: Enabled
+[2019.07.27-03.51.41:738][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.27-03.51.41:764][  0]LogInit: Transaction tracking system initialized
+[2019.07.27-03.51.41:790][  0]BlueprintLog: New page: Editor Load
+[2019.07.27-03.51.41:919][  0]LocalizationService: Localization service is disabled
+[2019.07.27-03.51.42:306][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/' took 0.01s
+[2019.07.27-03.51.42:306][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.27-03.51.42:306][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.27-03.51.42:516][  0]SourceControl: Source control is disabled
+[2019.07.27-03.51.42:525][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.22/FeaturePacks/StarterContent.upack)
+[2019.07.27-03.51.42:533][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.07.27-03.51.42:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.07.27-03.51.42:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.07.27-03.51.42:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.07.27-03.51.42:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.07.27-03.51.42:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.07.27-03.51.42:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.07.27-03.51.42:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.07.27-03.51.42:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.07.27-03.51.42:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.07.27-03.51.42:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.07.27-03.51.42:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.07.27-03.51.42:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.07.27-03.51.42:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.07.27-03.51.42:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.07.27-03.51.42:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.07.27-03.51.42:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.07.27-03.51.42:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.07.27-03.51.42:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Fire01.uasset"
+[2019.07.27-03.51.42:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.07.27-03.51.42:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.07.27-03.51.42:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.07.27-03.51.42:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Light01.uasset"
+[2019.07.27-03.51.42:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.07.27-03.51.42:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Light02.uasset"
+[2019.07.27-03.51.42:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.07.27-03.51.42:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.07.27-03.51.42:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.07.27-03.51.42:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.07.27-03.51.42:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.07.27-03.51.42:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.07.27-03.51.42:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.07.27-03.51.42:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.07.27-03.51.42:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.07.27-03.51.42:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Steam01.uasset"
+[2019.07.27-03.51.42:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.07.27-03.51.42:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.07.27-03.51.42:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.07.27-03.51.42:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.07.27-03.51.42:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.07.27-03.51.42:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.07.27-03.51.42:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.07.27-03.51.42:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.07.27-03.51.42:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.07.27-03.51.42:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.07.27-03.51.42:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.07.27-03.51.42:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.07.27-03.51.42:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.07.27-03.51.42:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.07.27-03.51.42:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.07.27-03.51.42:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.07.27-03.51.42:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.07.27-03.51.43:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.07.27-03.51.43:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.07.27-03.51.43:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.07.27-03.51.43:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.07.27-03.51.43:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.07.27-03.51.43:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/StarterMap.umap"
+[2019.07.27-03.51.43:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.07.27-03.51.43:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.07.27-03.51.43:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.07.27-03.51.43:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.07.27-03.51.43:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.07.27-03.51.43:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.07.27-03.51.43:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.07.27-03.51.43:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.07.27-03.51.43:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.07.27-03.51.43:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.07.27-03.51.43:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.07.27-03.51.43:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.07.27-03.51.43:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.07.27-03.51.43:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.07.27-03.51.43:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.07.27-03.51.43:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.07.27-03.51.43:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.07.27-03.51.43:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.07.27-03.51.43:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.07.27-03.51.43:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.07.27-03.51.43:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.07.27-03.51.43:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.07.27-03.51.43:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.07.27-03.51.43:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.07.27-03.51.43:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.07.27-03.51.43:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.07.27-03.51.43:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.07.27-03.51.43:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.07.27-03.51.43:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.07.27-03.51.43:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.07.27-03.51.43:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.07.27-03.51.43:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.07.27-03.51.43:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.07.27-03.51.43:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.07.27-03.51.43:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.07.27-03.51.43:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.07.27-03.51.43:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.07.27-03.51.43:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.07.27-03.51.43:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.07.27-03.51.43:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.07.27-03.51.43:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.07.27-03.51.43:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.07.27-03.51.43:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.07.27-03.51.43:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.07.27-03.51.43:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.07.27-03.51.43:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.07.27-03.51.43:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.07.27-03.51.43:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.07.27-03.51.43:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.07.27-03.51.43:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.07.27-03.51.43:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.07.27-03.51.43:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.07.27-03.51.43:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.07.27-03.51.43:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.07.27-03.51.43:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.07.27-03.51.43:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.07.27-03.51.43:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.07.27-03.51.43:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.07.27-03.51.43:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.07.27-03.51.43:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.07.27-03.51.43:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.07.27-03.51.43:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.07.27-03.51.43:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.07.27-03.51.43:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.07.27-03.51.43:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.07.27-03.51.43:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_Door.uasset"
+[2019.07.27-03.51.43:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.07.27-03.51.43:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.07.27-03.51.43:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.07.27-03.51.43:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.07.27-03.51.43:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.07.27-03.51.43:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.07.27-03.51.43:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.07.27-03.51.43:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.07.27-03.51.43:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.07.27-03.51.43:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.07.27-03.51.43:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.07.27-03.51.43:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.07.27-03.51.43:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.07.27-03.51.43:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.07.27-03.51.43:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.07.27-03.51.43:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.07.27-03.51.43:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.07.27-03.51.43:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.07.27-03.51.43:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.07.27-03.51.43:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.07.27-03.51.43:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.07.27-03.51.43:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.07.27-03.51.43:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.07.27-03.51.43:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.07.27-03.51.43:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.07.27-03.51.43:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.07.27-03.51.43:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.07.27-03.51.43:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.07.27-03.51.43:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.07.27-03.51.43:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.07.27-03.51.43:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.07.27-03.51.43:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.07.27-03.51.43:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.07.27-03.51.43:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.07.27-03.51.43:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.07.27-03.51.43:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.07.27-03.51.43:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.07.27-03.51.43:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.07.27-03.51.43:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.07.27-03.51.43:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.07.27-03.51.43:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.07.27-03.51.43:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.07.27-03.51.43:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.07.27-03.51.43:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.07.27-03.51.43:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.07.27-03.51.43:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.07.27-03.51.44:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.07.27-03.51.44:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.07.27-03.51.44:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.07.27-03.51.44:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.07.27-03.51.44:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.07.27-03.51.44:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.07.27-03.51.44:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.07.27-03.51.44:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.07.27-03.51.44:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.07.27-03.51.44:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.07.27-03.51.44:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.07.27-03.51.44:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.07.27-03.51.44:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.07.27-03.51.44:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.07.27-03.51.44:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.07.27-03.51.44:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.07.27-03.51.44:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.07.27-03.51.44:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.07.27-03.51.44:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.07.27-03.51.44:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.07.27-03.51.44:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.07.27-03.51.44:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.07.27-03.51.44:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.07.27-03.51.44:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.07.27-03.51.44:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.07.27-03.51.44:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.07.27-03.51.44:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.07.27-03.51.44:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.07.27-03.51.44:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.07.27-03.51.44:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.07.27-03.51.44:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.07.27-03.51.44:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.07.27-03.51.44:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.07.27-03.51.44:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.07.27-03.51.44:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.07.27-03.51.44:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.07.27-03.51.44:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.07.27-03.51.44:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.07.27-03.51.44:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.07.27-03.51.44:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.07.27-03.51.44:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.07.27-03.51.44:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.07.27-03.51.44:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.07.27-03.51.44:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.07.27-03.51.44:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.07.27-03.51.44:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.07.27-03.51.44:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.07.27-03.51.44:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.07.27-03.51.44:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.07.27-03.51.44:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.07.27-03.51.44:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.07.27-03.51.44:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.07.27-03.51.44:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.07.27-03.51.44:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.07.27-03.51.44:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.07.27-03.51.44:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.07.27-03.51.44:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.07.27-03.51.44:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.07.27-03.51.44:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.07.27-03.51.44:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.07.27-03.51.44:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.07.27-03.51.44:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.07.27-03.51.44:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.07.27-03.51.44:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.07.27-03.51.44:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.07.27-03.51.44:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.07.27-03.51.44:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.07.27-03.51.45:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.07.27-03.51.45:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.07.27-03.51.45:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.07.27-03.51.45:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.07.27-03.51.45:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.07.27-03.51.45:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.07.27-03.51.45:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.07.27-03.51.45:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.07.27-03.51.45:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.07.27-03.51.45:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.07.27-03.51.45:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.07.27-03.51.45:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.07.27-03.51.45:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.07.27-03.51.45:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.07.27-03.51.45:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.07.27-03.51.45:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.07.27-03.51.45:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.07.27-03.51.45:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.07.27-03.51.45:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.07.27-03.51.45:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.07.27-03.51.45:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.07.27-03.51.45:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.07.27-03.51.45:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.07.27-03.51.45:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.07.27-03.51.45:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.07.27-03.51.45:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.07.27-03.51.45:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.07.27-03.51.45:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.07.27-03.51.45:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.07.27-03.51.45:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.07.27-03.51.45:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.07.27-03.51.45:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.07.27-03.51.45:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.07.27-03.51.45:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.07.27-03.51.45:571][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.07.27-03.51.45:666][  0]LogSavePackage: Moving '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Floor_400x400323143DA4D722024138FD780FDDB6E3E.tmp' to '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.07.27-03.51.45:672][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.07.27-03.51.45:675][  0]Cmd: MAP LOAD FILE="../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.27-03.51.45:676][  0]LightingResults: New page: Lighting Build
+[2019.07.27-03.51.45:679][  0]MapCheck: New page: Map Check
+[2019.07.27-03.51.45:679][  0]LightingResults: New page: Lighting Build
+[2019.07.27-03.51.45:708][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.07.27-03.51.45:935][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.07.27-03.51.45:942][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.27-03.51.45:974][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.07.27-03.51.45:975][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.27-03.51.45:975][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.544ms to complete.
+[2019.07.27-03.51.45:975][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.300
+[2019.07.27-03.51.46:103][  0]LogCollectionManager: Loaded 0 collections in 0.001668 seconds
+[2019.07.27-03.51.46:154][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Collections/' took 0.01s
+[2019.07.27-03.51.46:154][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/Developers/kirby/Collections/' took 0.01s
+[2019.07.27-03.51.46:154][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/Collections/' took 0.01s
+[2019.07.27-03.51.46:154][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.07.27-03.51.46:163][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2733 classes and 661 folders.
+[2019.07.27-03.51.46:174][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.27-03.51.46:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:238][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:243][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:254][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:269][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:299][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:320][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:325][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.27-03.51.46:502][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.27-03.51.46:532][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-03.51.46:539][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-03.51.46:545][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-03.51.46:552][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-03.51.46:594][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.27-03.51.46:604][  0]LogSlate: Took 0.007215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.27-03.51.46:604][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.27-03.51.46:617][  0]LogSlate: Took 0.005529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.07.27-03.51.46:742][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.27-03.51.46:779][  0]LogRenderer: Reallocating scene render targets to support 1152x676 Format 10 NumSamples 1 (Frame:1).
+[2019.07.27-03.51.46:920][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.27-03.51.46:921][  0]LogLoad: (Engine Initialization) Total time: 13.76 seconds
+[2019.07.27-03.51.46:921][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.27-03.51.46:975][  0]LogAssetRegistry: Asset discovery search completed in 8.7405 seconds
+[2019.07.27-03.51.46:976][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.27-03.51.46:977][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000164 seconds (updated 0 objects)
+[2019.07.27-03.51.46:979][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.27-03.51.50:846][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.51.51:862][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.51.53:580][383]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.07.27-03.52.00:901][793]LogSlate: Window 'Source Control Login' being destroyed
+[2019.07.27-03.52.07:710][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.52.09:510][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.52.16:559][381]LogSlate: Window 'Source Control Login' being destroyed
+[2019.07.27-03.52.38:138][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-03.52.51:673][566]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.27-03.52.51:897][566]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2019.07.27-03.52.53:991][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.07.27-03.52.56:171][689]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.27-03.52.56:334][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.07.27-03.52.56:357][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.07.27-03.52.56:382][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.07.27-03.52.56:404][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.07.27-03.52.59:945][856]LogAIModule: Creating AISystem for world StarterMap
+[2019.07.27-03.52.59:978][856]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2019.07.27-03.53.00:008][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.07.27-03.53.00:009][856]Cmd: MAP LOAD FILE="../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.27-03.53.00:009][856]LightingResults: New page: Lighting Build
+[2019.07.27-03.53.00:010][856]LoadErrors: New page: Loading map: StarterMap.umap
+[2019.07.27-03.53.00:011][856]MapCheck: New page: Map Check
+[2019.07.27-03.53.00:012][856]LightingResults: New page: Lighting Build
+[2019.07.27-03.53.00:041][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.07.27-03.53.00:061][856]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.27-03.53.00:090][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.07.27-03.53.00:104][856]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.27-03.53.00:104][856]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.315ms to complete.
+[2019.07.27-03.53.00:104][856]LogFileHelpers: Loading map 'StarterMap' took 0.095
+[2019.07.27-03.53.05:880][109]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.07.27-03.53.08:098][240]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.07.27-03.53.08:102][240]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2019.07.27-03.53.08:125][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.07.27-03.53.08:125][240]Cmd: MAP LOAD FILE="../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.27-03.53.08:125][240]LightingResults: New page: Lighting Build
+[2019.07.27-03.53.08:126][240]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2019.07.27-03.53.08:128][240]MapCheck: New page: Map Check
+[2019.07.27-03.53.08:128][240]LightingResults: New page: Lighting Build
+[2019.07.27-03.53.08:153][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.07.27-03.53.08:155][240]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.27-03.53.08:180][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.07.27-03.53.08:192][240]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.27-03.53.08:192][240]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.247ms to complete.
+[2019.07.27-03.53.08:192][240]LogFileHelpers: Loading map 'Minimal_Default' took 0.067
+[2019.07.27-03.53.09:931][333]LogAIModule: Creating AISystem for world StarterMap
+[2019.07.27-03.53.11:806][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.07.27-03.53.13:296][443]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.27-03.53.13:468][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.07.27-03.53.13:490][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.07.27-03.53.13:515][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.07.27-03.53.13:536][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.07.27-03.53.40:741][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.07.27-03.53.40:741][205]LogMetaData: Removing '/Game/StarterContent/Maps/Battleground.Battleground_C' ref from Metadata '/Game/StarterContent/Maps/Minimal_Default.PackageMetaData'
+[2019.07.27-03.53.40:742][205]LogMetaData: Removing '/Game/StarterContent/Maps/Battleground.SKEL_Battleground_C' ref from Metadata '/Game/StarterContent/Maps/Minimal_Default.PackageMetaData'
+[2019.07.27-03.53.40:805][205]LogSavePackage: Moving '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Battleground_BuiltData561F2B4A4171ED1638BC1784C50E0076.tmp' to '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Battleground_BuiltData.uasset'
+[2019.07.27-03.53.40:958][205]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2019.07.27-03.53.40:958][205]SourceControl: Error: BattleTank/Content/StarterContent/Maps/Battleground_BuiltData.uasset
+[2019.07.27-03.53.40:958][205]SourceControl: Error: Use -f if you really want to add them.
+[2019.07.27-03.53.40:993][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.07.27-03.53.41:103][205]LogSavePackage: Moving '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/BattlegroundEDF64EE4494B5B08EBC522A48AFEDB97.tmp' to '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Battleground.umap'
+[2019.07.27-03.53.41:298][205]LogFileHelpers: Saving map 'Battleground' took 0.332
+[2019.07.27-03.53.41:691][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.07.27-03.53.41:714][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.07.27-03.53.41:739][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.07.27-03.53.41:762][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.07.27-03.53.56:752][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.07.27-03.53.56:847][ 95]LogSavePackage: Moving '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/BattlegroundDDAAFB4A45365878D69FF190BA7B6E6D.tmp' to '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Battleground.umap'
+[2019.07.27-03.53.56:981][ 95]LogSavePackage: Moving '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Battleground_BuiltData804264A648B1EFF21C5A3FBE6A40A0EC.tmp' to '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Battleground_BuiltData.uasset'
+[2019.07.27-03.54.01:384][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.27-03.54.02:333][408]Cmd: DELETE
+[2019.07.27-03.54.02:333][408]Cmd: ACTOR DELETE
+[2019.07.27-03.54.02:336][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.27-03.54.02:363][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.07.27-03.54.02:363][408]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.07.27-03.54.02:836][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.27-03.54.02:982][444]Cmd: DELETE
+[2019.07.27-03.54.02:982][444]Cmd: ACTOR DELETE
+[2019.07.27-03.54.02:985][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.27-03.54.03:009][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.27-03.54.03:010][444]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.07.27-03.54.03:422][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2019.07.27-03.54.03:553][475]Cmd: DELETE
+[2019.07.27-03.54.03:553][475]Cmd: ACTOR DELETE
+[2019.07.27-03.54.03:555][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.27-03.54.03:578][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.07.27-03.54.03:578][475]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.27-03.54.04:006][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2019.07.27-03.54.04:270][515]Cmd: DELETE
+[2019.07.27-03.54.04:270][515]Cmd: ACTOR DELETE
+[2019.07.27-03.54.04:271][515]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.27-03.54.04:294][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.07.27-03.54.04:294][515]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.27-03.54.04:672][538]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.07.27-03.54.05:275][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.07.27-03.54.05:654][594]Cmd: DELETE
+[2019.07.27-03.54.05:654][594]Cmd: ACTOR DELETE
+[2019.07.27-03.54.05:655][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.27-03.54.05:679][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.07.27-03.54.05:679][594]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.27-03.54.06:232][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.07.27-03.54.06:458][640]Cmd: DELETE
+[2019.07.27-03.54.06:458][640]Cmd: ACTOR DELETE
+[2019.07.27-03.54.06:459][640]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.27-03.54.06:483][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.07.27-03.54.06:483][640]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.27-03.54.11:410][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-03.54.17:733][310]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2019.07.27-03.54.17:755][310]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.07.27-03.54.17:783][310]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.27-03.54.17:783][310]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.27-03.54.17:783][310]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.07.27-03.54.17:813][310]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.27-03.54.17:813][310]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.27-03.54.17:813][310]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.07.27-03.54.17:857][310]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.27-03.54.17:857][310]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.27-03.54.17:857][310]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.07.27-03.54.17:926][310]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.07.27-03.54.17:950][310]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.07.27-03.54.17:980][310]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.07.27-03.54.18:001][310]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.07.27-03.54.18:023][310]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.07.27-03.54.18:045][310]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.07.27-03.54.18:069][310]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.07.27-03.54.18:089][310]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.07.27-03.54.21:549][502]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.07.27-03.54.22:330][548]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.07.27-03.54.23:806][628]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.07.27-03.54.24:019][639]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.07.27-03.54.24:210][649]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.07.27-03.54.24:429][662]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.07.27-03.54.24:457][663]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.07.27-03.54.24:500][664]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.07.27-03.54.27:560][834]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.07.27-03.54.27:880][851]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.07.27-03.54.29:145][923]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.27-03.54.29:220][927]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.27-03.54.29:359][935]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.27-03.54.29:558][947]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.27-03.54.31:073][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-03.54.36:712][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-03.54.37:581][381]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.07.27-03.54.37:582][381]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2019.07.27-03.54.37:582][381]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2019.07.27-03.54.37:582][381]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2019.07.27-03.54.37:582][381]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2019.07.27-03.54.37:582][381]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2019.07.27-03.54.37:583][381]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2019.07.27-03.54.37:583][381]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2019.07.27-03.54.37:583][381]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2019.07.27-03.54.37:583][381]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2019.07.27-03.54.37:583][381]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2019.07.27-03.54.37:586][381]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2019.07.27-03.54.37:588][381]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2019.07.27-03.54.37:590][381]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2019.07.27-03.54.37:591][381]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2019.07.27-03.54.37:591][381]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2019.07.27-03.54.37:663][381]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.07.27-03.54.42:469][381]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.07.27-03.54.42:469][381]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.07.27-03.54.42:469][381]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.07.27-03.54.42:470][381]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.07.27-03.54.42:470][381]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.07.27-03.54.42:470][381]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.07.27-03.54.42:470][381]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.07.27-03.54.42:470][381]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.27-03.54.42:470][381]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.27-03.54.42:470][381]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.27-03.54.42:470][381]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.27-03.55.02:192][506]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.07.27-03.55.02:229][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.55.37:079][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.55.41:364][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.55.45:651][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.55.49:905][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.56.08:048][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.56.14:134][358]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-03.56.19:947][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-03.56.51:617][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-03.56.54:613][403]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.07.27-03.57.04:558][999]Cmd: DELETE
+[2019.07.27-03.57.04:558][999]Cmd: ACTOR DELETE
+[2019.07.27-03.57.04:574][999]LogEditorActor: Deleted Actor: Landscape
+[2019.07.27-03.57.04:859][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.07.27-03.57.04:859][999]LogEditorActor: Deleted 1 Actors (0.302 secs)
+[2019.07.27-03.57.09:584][272]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2019.07.27-03.57.50:913][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-03.57.51:165][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.27-03.57.51:372][758]LogSavePackage: Moving '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/BattlegroundE3741AA249E798E6C3FC68ADE6B1603A.tmp' to '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Battleground.umap'
+[2019.07.27-03.57.51:513][758]LogSavePackage: Moving '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Saved/Battleground_BuiltDataFED3159A4B98F57F4F44D5B6CCA052C3.tmp' to '../../../../../../Users/kirby/Documents/Unreal Projects/BattleTank/BattleTank/Content/StarterContent/Maps/Battleground_BuiltData.uasset'
